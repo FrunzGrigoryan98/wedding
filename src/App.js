@@ -2,8 +2,19 @@ import './App.css';
 import Countdown from "./Countdown";
 import CupImg from "./assets/images/cup.svg";
 import RingImg from "./assets/images/ring.svg";
+import {useEffect} from "react";
+import sss from './assets/sounds/videoplayback.mp3'
 
 function App() {
+    // useEffect(()=>{
+    //     console.log(sss)
+    //
+    //     const fff = new Audio(sss);
+    //     console.log(fff)
+    //     // sss.play();
+    //     // sss.loop = true
+    // },[])
+
     return (
     <div className="App">
         <div className="mainWrapper">

@@ -61,11 +61,13 @@ html {
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("assets/images/bannerMobile.jpg");
+  background-attachment: fixed;
   background-position: center top;
 }
 @media (max-width: 1024px) {
   .banner {
     padding: 1.6rem;
+    background-attachment: initial;
   }
 }
 .banner:after {

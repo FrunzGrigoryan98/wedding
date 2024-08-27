@@ -62,11 +62,10 @@ html {
   background-size: cover;
   background-image: url("assets/images/bannerMobile.jpg");
   background-attachment: fixed;
-  background-position: top;
+  background-position: center top;
 }
 @media (max-width: 1024px) {
   .banner {
-    /*background-image: url("assets/images/bannerMobile.jpg");*/
     padding: 1.6rem;
   }
 }

@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8544461a-11fa-498b-8407-5c3d2020dc6a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Countdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/bannerMobile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/bannerWeb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/cup.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/ring.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +77,7 @@
       <workItem from="1724409810776" duration="4807000" />
       <workItem from="1724422227360" duration="304000" />
       <workItem from="1724422689695" duration="1937000" />
-      <workItem from="1724424715978" duration="11814000" />
+      <workItem from="1724424715978" duration="12559000" />
     </task>
     <servers />
   </component>
